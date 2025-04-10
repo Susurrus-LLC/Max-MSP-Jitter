@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 77.0, 1980.0, 993.0 ],
+		"rect" : [ 134.0, 134.0, 1980.0, 993.0 ],
 		"default_fontname" : "Fira Sans Medium",
 		"gridsize" : [ 11.0, 11.0 ],
 		"gridsnaponopen" : 2,
@@ -912,24 +912,24 @@
 
 			}
  ],
-		"originid" : "pat-6",
+		"originid" : "pat-52",
 		"dependency_cache" : [ 			{
 				"name" : "ClearPads.maxpat",
-				"bootpath" : "~/Music/Composing/Max MSP/Projects/Akai APC mini mkii Tests",
+				"bootpath" : "~/Music/Composing/Max MSP/Shared on Github/Akai APC mini mkii Fader Colors",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "ColorSwatches.js",
-				"bootpath" : "~/Music/Composing/Max MSP/Projects/Akai APC mini mkii Tests",
+				"bootpath" : "~/Music/Composing/Max MSP/Shared on Github/Akai APC mini mkii Fader Colors",
 				"patcherrelativepath" : ".",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "PrepNotes.maxpat",
-				"bootpath" : "~/Music/Composing/Max MSP/Projects/Akai APC mini mkii Tests",
+				"bootpath" : "~/Music/Composing/Max MSP/Shared on Github/Akai APC mini mkii Fader Colors",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
