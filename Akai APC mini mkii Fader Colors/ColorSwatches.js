@@ -18,7 +18,6 @@ clear = () => {
       this.patcher.remove(panels[i])
     }
     created = false
-  } else {
   }
 }
 
@@ -38,7 +37,6 @@ create = () => {
       panels[i].setattr("bgfillcolor", r, g, b, a)
     }
     created = true
-  } else {
   }
 }
 
