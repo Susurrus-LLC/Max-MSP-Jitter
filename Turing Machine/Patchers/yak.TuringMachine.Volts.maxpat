@@ -13,6 +13,8 @@
 		"rect" : [ 134.0, 134.0, 623.0, 475.0 ],
 		"openinpresentation" : 1,
 		"gridsize" : [ 15.0, 15.0 ],
+		"description" : "A port of the eurorack Turing Machine Volts",
+		"tags" : "abstraction",
 		"boxes" : [ 			{
 				"box" : 				{
 					"id" : "obj-76",
@@ -1567,7 +1569,7 @@
 
 			}
  ],
-		"originid" : "pat-71",
+		"originid" : "pat-26",
 		"parameters" : 		{
 			"obj-11" : [ "four", "4", 0 ],
 			"obj-13" : [ "five", "5", 0 ],

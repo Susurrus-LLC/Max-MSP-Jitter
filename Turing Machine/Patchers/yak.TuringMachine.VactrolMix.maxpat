@@ -10,9 +10,11 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 133.0, 133.0, 405.0, 337.0 ],
+		"rect" : [ 617.0, 323.0, 405.0, 337.0 ],
 		"openinpresentation" : 1,
 		"gridsize" : [ 15.0, 15.0 ],
+		"description" : "A port of the eurorack Turing Machine Vactrol Mix",
+		"tags" : "abstraction",
 		"boxes" : [ 			{
 				"box" : 				{
 					"id" : "obj-102",
@@ -2067,7 +2069,7 @@
 
 			}
  ],
-		"originid" : "pat-67",
+		"originid" : "pat-18",
 		"parameters" : 		{
 			"obj-27" : [ "one", "1", 0 ],
 			"obj-29" : [ "two", "2", 0 ],

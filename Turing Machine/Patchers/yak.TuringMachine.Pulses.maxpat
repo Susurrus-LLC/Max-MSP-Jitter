@@ -13,6 +13,8 @@
 		"rect" : [ 567.0, 350.0, 594.0, 479.0 ],
 		"openinpresentation" : 1,
 		"gridsize" : [ 15.0, 15.0 ],
+		"description" : "A port of the eurorack Turing Machine Pulses",
+		"tags" : "abstraction",
 		"boxes" : [ 			{
 				"box" : 				{
 					"id" : "obj-120",
@@ -2299,7 +2301,7 @@
 
 			}
  ],
-		"originid" : "pat-63",
+		"originid" : "pat-14",
 		"dependency_cache" : [  ],
 		"autosave" : 0,
 		"toolbaradditions" : [ "audiomute", "audiosolo", "packagemanager", "browsegendsp", "browsegenjit", "lessonbrowser" ]
